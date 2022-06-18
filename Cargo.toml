@@ -1,0 +1,14 @@
+[package]
+name = "gerrymander"
+version = "0.1.0"
+edition = "2021"
+authors = ["Olive"]
+
+[dependencies]
+env_logger = "0.9"
+fastrand = "1.7.0"
+fxhash = "0.2.1"
+log = "0.4"
+pixels = "0.8.0"
+winit = "0.25"
+winit_input_helper = "0.10"
